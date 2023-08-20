@@ -92,8 +92,7 @@ comments:
     repo: doctorfree/lunarvim.lazyman.dev
     repo_id: R_kgDOKJAuAA
     category: General
-    category_id:
-      DIC_kwDOKJAuAM4CYt01
+    category_id: DIC_kwDOKJAuAM4CYt01
       # This is the hardest thing to find. Use the following script:
       # gh api graphql -f query='
       # {
