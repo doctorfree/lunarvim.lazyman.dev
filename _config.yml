@@ -73,7 +73,7 @@ theme_mode:
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/neovim-hicontrast.png"
+avatar: "/assets/lunarvim.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -93,20 +93,6 @@ comments:
     repo_id: R_kgDOKJAuAA
     category: General
     category_id: DIC_kwDOKJAuAM4CYt01
-      # This is the hardest thing to find. Use the following script:
-      # gh api graphql -f query='
-      # {
-      #   repository(owner: "<gh-username>", name: "<repo-name>") {
-      #     id
-      #     name
-      #     discussionCategories(first: 10) {
-      #       nodes {
-      #         id
-      #         name
-      #       }
-      #     }
-      #   }
-      # }'
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
