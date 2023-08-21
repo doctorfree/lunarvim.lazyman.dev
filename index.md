@@ -1,15 +1,18 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 8
+layout: post
+toc: false
+post_style: page
 ---
 
-[Lazyman](https://lazyman.dev) provides command line and menus to
-manage multiple Neovim configurations. Several of these use the
-[LunarVim](https://www.lunarvim.org/) configuration framework.
+## Lazyman Supported LunarVim Neovim Configurations
 
-This website provides details on each of the LunarVim based
-Lazyman supported Neovim configurations.
+The following are [Lazyman](https://lazyman.dev) supported
+[LunarVim](https://lunarvim.org) based Neovim configurations:
+
+| LunarVim |        | Configurations |
+| :------- | :----: | -------------: |
+| [LunarVim](https://lunarvim.lazyman.dev/posts/LunarVim) | [Daniel](https://lunarvim.lazyman.dev/posts/Daniel) | [JustinLvim](https://lunarvim.lazyman.dev/posts/JustinLvim) |
+| [LunarIde](https://lunarvim.lazyman.dev/posts/LunarIde) | [LvimAdib](https://lunarvim.lazyman.dev/posts/LvimAdib) | [Shuvro](https://lunarvim.lazyman.dev/posts/Shuvro) |
 
 <div align="center">
   <h2 id="connect">Connect</h2>
