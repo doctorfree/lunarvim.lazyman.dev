@@ -15,7 +15,6 @@ The following are [Lazyman](https://lazyman.dev) supported
 | [LunarIde](https://lunarvim.lazyman.dev/posts/LunarIde) | [LvimAdib](https://lunarvim.lazyman.dev/posts/LvimAdib) | [Shuvro](https://lunarvim.lazyman.dev/posts/Shuvro) |
 
 <div align="center">
-  <h2 id="connect">Connect</h2>
   <p align="center">
     <a href="https://ronrecord.com" target="_blank" rel="noopener">
       <img align="center"
