@@ -14,8 +14,8 @@ The following are [Lazyman](https://lazyman.dev) supported
 | [LunarVim](https://lunarvim.lazyman.dev/posts/LunarVim) | [Daniel](https://lunarvim.lazyman.dev/posts/Daniel) | [JustinLvim](https://lunarvim.lazyman.dev/posts/JustinLvim) |
 | [LunarIde](https://lunarvim.lazyman.dev/posts/LunarIde) | [LvimAdib](https://lunarvim.lazyman.dev/posts/LvimAdib) | [Shuvro](https://lunarvim.lazyman.dev/posts/Shuvro) |
 
-<div align="center">
-  <p align="center">
+<div>
+  <p>
     <a href="https://ronrecord.com" target="_blank" rel="noopener">
       <img align="center"
       style="width:40px;height:40px"
