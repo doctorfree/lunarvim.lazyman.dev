@@ -5,7 +5,7 @@ toc: true
 post_style: page
 ---
 
-## Lazyman Supported LunarVim Neovim Configurations
+<h2>Lazyman Supported LunarVim Neovim Configurations</h2>
 
 The following are [Lazyman](https://lazyman.dev) supported
 [LunarVim](https://lunarvim.org) based Neovim configurations:
