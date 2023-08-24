@@ -8,7 +8,8 @@ post_style: page
 <h2>Lazyman Supported LunarVim Neovim Configurations</h2>
 
 The following are [Lazyman](https://lazyman.dev) supported
-[LunarVim](https://lunarvim.org) based Neovim configurations:
+[LunarVim](https://lunarvim.org){:target="_blank"}{:rel="noopener noreferrer"}
+based Neovim configurations:
 
 | LunarVim |        | Configurations |
 | :------- | :----: | -------------: |
@@ -19,7 +20,8 @@ Install all Lazyman supported LunarVim configurations with the command `lazyman 
 
 ## What is LunarVim
 
-[LunarVim](https://lunarvim.org) is one of the most popular Neovim "distributions"
+[LunarVim](https://lunarvim.org){:target="_blank"}{:rel="noopener noreferrer"}
+is one of the most popular Neovim "distributions"
 along with [LazyVim](https://lazyvim.lazyman.dev),
 [AstroNvim](https://astronvim.lazyman.dev), and
 [NvChad](https://nvchad.lazyman.dev). These aren't really distributions,
@@ -63,7 +65,7 @@ choose between features and speed.
 
 ## Core Plugins List
 
-See the LunarVim [core plugins list](https://www.lunarvim.org/docs/features/core-plugins-list)
+See the LunarVim [core plugins list](https://www.lunarvim.org/docs/features/core-plugins-list){:target="_blank"}{:rel="noopener noreferrer"}
 
 <div align="center">
   <p align="center">
